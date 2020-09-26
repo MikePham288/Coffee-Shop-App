@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4D9B15DA-BB66-4B5B-84B0-5B09CC1D2507}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopLib/Customer.cs">
+    <Files>
+      <File FileName="CoffeeShop/Program.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShopLib/Customer.cs" Line="69" Column="69" />
+      <File FileName="CoffeeShopLib/Order.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShopLib/OrderItem.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShopLib/Properties/MenuItem.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShopLib/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShopLib/MenuItem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeMinhP_300814556_A1" expanded="True">
+            <Node name="CoffeeShop" expanded="True" />
+            <Node name="CoffeeShopLib" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoffeeShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

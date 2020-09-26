@@ -1,0 +1,56 @@
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\CoffeeShopLib.dll
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\CoffeeShopLib.pdb
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csprojAssemblyReference.cache
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCustomer.resources
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CoffeeShop.resources
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.GenerateResource.cache
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.CoreCompileInputs.cache
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.CopyComplete
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditCustomer.resources
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCustomer.resources
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CoffeeShop.resources
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditCustomer.resources
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.GenerateResource.cache
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.CopyComplete
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CustomerOrders.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\CoffeeShopApp.exe.config
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\CoffeeShopApp.exe
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\CoffeeShopApp.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csprojAssemblyReference.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCustomer.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CoffeeShop.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CustomerOrders.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditCustomer.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.Properties.Resources.resources
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.GenerateResource.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.exe
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\WindowsFormsApp1\obj\Debug\CoffeeShopApp.pdb

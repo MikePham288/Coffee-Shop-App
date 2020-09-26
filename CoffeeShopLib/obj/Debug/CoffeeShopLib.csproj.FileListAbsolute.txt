@@ -1,0 +1,88 @@
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\LeMinhP_300814556_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\LeMinhP_300814556_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\LeMinhP_300814556_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\LeMinhP_300814556_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\LeMinhP_300814556_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2A\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\minhp\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 2\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3A\LeMinhP_300814556_A3A\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\atina\Downloads\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Desktop\Assignment 3_up\Assignment 3\Assignment 3\LeMinhP_300814556_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+C:\Users\Mike\Insync\mikephse@gmail.com\Google Drive\CentennialColege\SEMESTER 2\COMP 123 Programming 2\Assignments\Assignment 4\LeMinhP_300814556_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
